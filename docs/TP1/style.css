@@ -1,0 +1,21 @@
+.left {
+    color: white;
+    width: 40%;
+    background-color: black;
+    float: left;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+
+.right {
+
+    width: 60%;
+    background-color: red;
+    float: left;
+    border: 10px;
+
+}
+
+.aa {
+    width: 10%
+}
