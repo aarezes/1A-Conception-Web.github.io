@@ -4,13 +4,32 @@ body {
 }
 
 header {
-    background-color: darkcyan;
+    background-color: #154c79;
     text-align: center;
+    color: #7ebaea;
 }
 
 section {
     margin-bottom: 75px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
+
+h1 {
+    margin-left: 70px;
+
+}
+
+#name {
+    color: white;
+    font-size: xx-large;
+}
+
+#contact {
+    line-height: 2
+}
+
+
 
 .date {
     color: gray;
