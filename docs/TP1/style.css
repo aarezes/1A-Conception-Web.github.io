@@ -1,21 +1,25 @@
-.left {
-    color: white;
-    width: 40%;
-    background-color: black;
-    float: left;
-    border-top-right-radius: 24px;
-    border-bottom-right-radius: 24px;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.right {
+header {
+    background-color: darkcyan;
+    text-align: center;
+}
 
-    width: 60%;
-    background-color: red;
-    float: left;
-    border: 10px;
+
+.date {
+    color: gray;
+    ;
 
 }
 
-.aa {
-    width: 10%
+.middle {
+    position: absolute;
+    margin-left: 125px;
+}
+
+.place {
+    float: right;
+    color: gray;
 }
