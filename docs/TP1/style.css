@@ -9,6 +9,7 @@ header {
     background-color: #154c79;
     text-align: center;
     color: #7ebaea;
+    padding: 20px;
 }
 
 section {
@@ -32,7 +33,6 @@ footer {
     color: white;
     font-size: xx-large;
     margin-top: 0;
-    padding-top: 20px;
 }
 
 #work {
