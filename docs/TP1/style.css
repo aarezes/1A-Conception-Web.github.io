@@ -1,6 +1,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 header {
@@ -11,8 +12,8 @@ header {
 
 section {
     margin-bottom: 75px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 
 h1 {
@@ -20,9 +21,18 @@ h1 {
 
 }
 
+footer {
+    background-color: #154c79;
+    color: #154c79;
+}
+
 #name {
     color: white;
     font-size: xx-large;
+}
+
+#work {
+    font-size: x-large
 }
 
 #contact {
@@ -33,7 +43,7 @@ h1 {
 
 .date {
     color: gray;
-    ;
+    text-align: right;
 
 }
 
