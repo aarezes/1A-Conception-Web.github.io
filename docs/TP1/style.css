@@ -5,6 +5,7 @@ body {
 }
 
 header {
+    margin-top: 0;
     background-color: #154c79;
     text-align: center;
     color: #7ebaea;
